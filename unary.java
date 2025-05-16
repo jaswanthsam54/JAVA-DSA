@@ -13,3 +13,4 @@ public class unary
 
     }
 }
+// a=11 b=10 c=11 d=11
